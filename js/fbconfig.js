@@ -1,11 +1,11 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyBu5YbmrNkLR6VAEoaZbBNlSp5cqyX04r0",
-    authDomain: "etec23-e0755.firebaseapp.com",
-    databaseURL: "https://etec23-e0755-default-rtdb.firebaseio.com",
-    projectId: "etec23-e0755",
-    storageBucket: "etec23-e0755.appspot.com",
-    messagingSenderId: "77824979520",
-    appId: "1:77824979520:web:90c7ba8013ef053de2a5a5"
+    apiKey: "AIzaSyAqBQ5zVYLWPS7hvLNZuMQIa5rdMk8bJvc",
+    authDomain: "firestore-2e778.firebaseapp.com",
+    projectId: "firestore-2e778",
+    storageBucket: "firestore-2e778.appspot.com",
+    messagingSenderId: "324148726434",
+    appId: "1:324148726434:web:b9768ce122092afa1325fb",
+    measurementId: "G-2FZQPWBDMV"
 };  
     // Initialize Firebase
 const app = firebase.initializeApp(firebaseConfig);
